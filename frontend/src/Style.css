@@ -1,0 +1,33 @@
+.loginPage {
+    background: url('/Images/LogInBackGround2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm {
+    background:  linear-gradient(rgba(19, 15, 15, 0.5), rgba(39, 39, 39, 0.5));
+    color: white;
+}
+
+.employee_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.empImg {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+#background{
+   background: linear-gradient(rgb(245, 245, 238), rgba(253, 238, 238, 0.658)); 
+   background-size: 500%;
+}
+#nav{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(16, 56, 31, 0.5));
+}
+/* .btn{
+    background-color: rgb(15, 4, 46);
+} */
